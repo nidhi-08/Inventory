@@ -1,0 +1,2 @@
+# Inventory
+Spring Boot Project
